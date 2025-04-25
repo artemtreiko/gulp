@@ -1,6 +1,14 @@
-@use './blocks/_header.scss';
-@use './blocks/_footer.scss';
+/* @import './components/*.scss'; */
 
+@use './components/_header.scss';
+@use './components/_footer.scss';
+@use './components/nav.scss';
+
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
+  background-image: url('../img/mrpickles.png');
+  background-size: cover;
 }

@@ -1,0 +1,55 @@
+.
+├── README.md
+├── build
+│   ├── about.html
+│   ├── css
+│   │   └── main.css
+│   ├── img
+│   │   ├── arrow.svg
+│   │   ├── icons
+│   │   └── mrpickles.png
+│   ├── index.html
+│   └── js
+│       ├── about.bundle.js
+│       └── index.bundle.js
+├── docs
+│   ├── about.html
+│   ├── css
+│   │   └── main.css
+│   ├── img
+│   │   ├── arrow.svg
+│   │   ├── icons
+│   │   ├── mrpickles.png
+│   │   └── mrpickles.webp
+│   ├── index.html
+│   └── js
+│       ├── about.bundle.js
+│       └── index.bundle.js
+├── gulpfile.js
+├── package-lock.json
+├── package.json
+├── src
+│   ├── files
+│   ├── fonts
+│   ├── html
+│   │   ├── about.html
+│   │   ├── components
+│   │   └── index.html
+│   ├── img
+│   │   ├── arrow.svg
+│   │   ├── icons
+│   │   └── mrpickles.png
+│   ├── js
+│   │   ├── about.js
+│   │   ├── index.js
+│   │   └── modules
+│   └── scss
+│       ├── components
+│       └── main.scss
+├── structure.txt
+├── version
+│   ├── dev.js
+│   └── docs.js
+└── webpack.config.js
+
+22 directories, 30 files

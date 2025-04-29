@@ -1,8 +1,8 @@
-const gulp = require('gulp');
+import gulp from 'gulp';
 
 // Tasks
-require('./version/dev.js');
-require('./version/docs.js');
+import './version/dev.js';
+import './version/docs.js';
 
 gulp.task(
   'default',
